@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgames=self.webpackChunkgames||[]).push([[66015626],{66015626:(e,s,a)=>{a.r(s),a.d(s,{BUILD_NAME_IS:()=>k});var k={V2:!0,V3:!1,B2B:!1,MOBILE_APP_DEFAULT:!1}}}]);

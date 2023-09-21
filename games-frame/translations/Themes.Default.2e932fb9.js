@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgames=self.webpackChunkgames||[]).push([[44505973],{52036956:(e,t,l)=>{l.r(t),l.d(t,{default:()=>u});var n=function(){var e=this,t=e.$createElement;return(e._self._c||t)("div",[e._t("default")],2)};n._withStripped=!0;const s={name:"DefaultTheme"};const u=(0,l(83551900).Z)(s,n,[],!1,null,null,null).exports}}]);

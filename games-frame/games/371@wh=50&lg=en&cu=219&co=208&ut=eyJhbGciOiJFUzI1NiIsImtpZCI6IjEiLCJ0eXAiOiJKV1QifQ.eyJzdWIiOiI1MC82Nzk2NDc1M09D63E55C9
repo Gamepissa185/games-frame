@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" 
+		content="width=device-width,initial-scale=1,maximum-scale=1">
+
+	<meta name="google" content="notranslate"><link rel="icon" href="favicon.ico"/>
+
+	<title>Webpack App</title>
+
+	<style>body {background-color: var(--theme-primary--60);}</style>
+
+	<link rel="icon" href="favicon.ico">
+
+	<link rel="stylesheet" href="style.css">
+
+	<script defer="defer" src="main.6dd4a360.js"></script>
+
+	
+	<script defer="defer" src="vpMtjxRAgS.b75c4aef.js"></script>
+
+	
+	<link rel="stylesheet" type="text/css" href="game.Crash-Desktop-index-js.60ab5e7b.css">
+
+</head>
+
+<body class="app-stage notranslate" translate="no">
+	<div id="app"></div>
+	<canvas id="app"></canvas>
+</body>
+</html>

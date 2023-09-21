@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgames=self.webpackChunkgames||[]).push([[80915623],{80915623:(e,s,r)=>{r.r(s),r.d(s,{AlertMethodTypes:()=>n});var n={Info:"info",Warning:"warning",Success:"success",Question:"question",Error:"error"}}}]);
